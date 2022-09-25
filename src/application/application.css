@@ -1,0 +1,13 @@
+.bodybg{
+	-fx-background-image:url("background.jpg");
+	-fx-background-size: 100% 100%;
+}
+.anchor2{
+	-fx-background-image:url("map.png");
+	-fx-background-repeat: no-repeat;
+	-fx-background-size: 100% 100%;
+}
+.image{
+	-fx-background-repeat: no-repeat;
+	-fx-background-size: 100% 100%;
+}
